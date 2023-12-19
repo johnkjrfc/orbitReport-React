@@ -1,4 +1,5 @@
 //will expand the table to display req'd data for each satellite
+import "./styling.css"
 const Table = ({ sat }) => {
   return (
     <table>
