@@ -1,3 +1,4 @@
+//data for the project. array of objects w/ 6 key pairs.
 const satData = [
    {
      id: 1,
